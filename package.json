@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "tailwindcss": "^1.0.5",
+    "tailwindcss-transitions": "^2.0.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {
@@ -32,11 +34,6 @@
     "rules": {},
     "parserOptions": {
       "parser": "babel-eslint"
-    }
-  },
-  "postcss": {
-    "plugins": {
-      "autoprefixer": {}
     }
   },
   "browserslist": [
